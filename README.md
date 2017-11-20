@@ -4,6 +4,7 @@ Messages sent to the topic will be stored in MongoDB for future reference.
 This application usage Spring boot 2.0.0 so you should have a local installation of gradle with version>=4 with JDK8
 
 To run the application
+Make Sure zookeeper and kafka is running on your machine
 
 1. Clone repository
 2. change application.properties as per your mongo username and password.
